@@ -1,0 +1,7 @@
+{
+    "TestRetrieval1": {
+        "difficulty": "basic",
+        "dependencies": [],
+        "test": "agbenchmark/challenges/retrieval/r1/r1_test.py"
+    }
+}
