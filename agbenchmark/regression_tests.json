@@ -2,6 +2,7 @@
     "TestWriteFile": {
         "difficulty": "basic",
         "dependencies": [],
-        "test": "agbenchmark/challenges/interface/write_file/write_file_test.py"
+        "test": "agbenchmark/challenges/interface/write_file",
+        "success": true
     }
 }
