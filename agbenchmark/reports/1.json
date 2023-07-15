@@ -12,6 +12,7 @@
   },
   "config": {
     "workspace": "projects/my-new-project/workspace",
-    "entry_path": "agbenchmark/benchmarks.py"
+    "entry_path": "agbenchmark/benchmarks.py",
+    "cutoff": 60
   }
 }

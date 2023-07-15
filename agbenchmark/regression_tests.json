@@ -10,5 +10,8 @@
             "TestWriteFile"
         ],
         "data_path": "agbenchmark/challenges/code/d4"
+    },
+    "TestThreeSum": {
+        "data_path": "agbenchmark/challenges/code/d5"
     }
 }
